@@ -1,0 +1,11 @@
+D:\Olli\Repos\FindDuplicates\DuplicateFinder\bin\Debug\netcoreapp3.0\DuplicateFinder.exe
+D:\Olli\Repos\FindDuplicates\DuplicateFinder\bin\Debug\netcoreapp3.0\DuplicateFinder.deps.json
+D:\Olli\Repos\FindDuplicates\DuplicateFinder\bin\Debug\netcoreapp3.0\DuplicateFinder.runtimeconfig.json
+D:\Olli\Repos\FindDuplicates\DuplicateFinder\bin\Debug\netcoreapp3.0\DuplicateFinder.runtimeconfig.dev.json
+D:\Olli\Repos\FindDuplicates\DuplicateFinder\bin\Debug\netcoreapp3.0\DuplicateFinder.dll
+D:\Olli\Repos\FindDuplicates\DuplicateFinder\bin\Debug\netcoreapp3.0\DuplicateFinder.pdb
+D:\Olli\Repos\FindDuplicates\DuplicateFinder\obj\Debug\netcoreapp3.0\DuplicateFinder.csprojAssemblyReference.cache
+D:\Olli\Repos\FindDuplicates\DuplicateFinder\obj\Debug\netcoreapp3.0\DuplicateFinder.AssemblyInfoInputs.cache
+D:\Olli\Repos\FindDuplicates\DuplicateFinder\obj\Debug\netcoreapp3.0\DuplicateFinder.AssemblyInfo.cs
+D:\Olli\Repos\FindDuplicates\DuplicateFinder\obj\Debug\netcoreapp3.0\DuplicateFinder.dll
+D:\Olli\Repos\FindDuplicates\DuplicateFinder\obj\Debug\netcoreapp3.0\DuplicateFinder.pdb
